@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mahikachadha5
-- 👀 I’m interested in ... front-end development
-- 🌱 I’m currently learning ... new machine learning models in Python
+- 🌱 I’m currently learning ... React!
 - 📫 How to reach me ... chadhama5@gmail.com
 
 <!---
