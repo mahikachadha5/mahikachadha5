@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mahikachadha5
-- 🌱 I’m currently learning ... React!
 - 📫 How to reach me ... chadhama5@gmail.com
 
 <!---
