@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @mahikachadha5
-- 📫 How to reach me ... chadhama5@gmail.com
+- 👋 Hi, I’m Mahika Chadha
+- Currently working on building RL environments
+- 📫 Please feel free to [reach out](mailto:chadhama5@gmail.com)
+- Thanks for stopping by <3
 
 <!---
 mahikachadha5/mahikachadha5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
